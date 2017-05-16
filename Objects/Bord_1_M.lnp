@@ -1,0 +1,15 @@
+--cpu Cortex-M3
+".\objects\startup_lpc17xx.o"
+".\objects\system_lpc17xx.o"
+".\objects\bord_1_m.o"
+".\objects\rtx_conf_cm.o"
+".\objects\uart.o"
+".\objects\gpio.o"
+".\objects\os_ex.o"
+".\objects\sys_uart.o"
+".\objects\delay.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_CM3.LIB
+--strict --scatter ".\Objects\Bord_1_M.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Bord_1_M.map" -o .\Objects\Bord_1_M.axf

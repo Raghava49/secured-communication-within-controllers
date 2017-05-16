@@ -1,0 +1,16 @@
+.\objects\bord_1_m.o: Bord_1_M.c
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\RV31\INC\RTL.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\objects\bord_1_m.o: .\Drivers\sys_uart.h
+.\objects\bord_1_m.o: .\Drivers\stdutils.h
+.\objects\bord_1_m.o: .\Drivers\gpio.h
+.\objects\bord_1_m.o: .\Drivers\uart.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\bord_1_m.o: .\Drivers\uart3.h
+.\objects\bord_1_m.o: OS_Ex.h
+.\objects\bord_1_m.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

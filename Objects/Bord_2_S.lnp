@@ -1,0 +1,11 @@
+--cpu Cortex-M3
+".\objects\startup_lpc17xx.o"
+".\objects\system_lpc17xx.o"
+".\objects\bord_2_s.o"
+".\objects\sys_uart.o"
+".\objects\gpio.o"
+".\objects\delay.o"
+--strict --scatter ".\Objects\Bord_2_S.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Bord_2_S.map" -o .\Objects\Bord_2_S.axf

@@ -1,0 +1,11 @@
+.\objects\bord_2_s.o: Bord_2_S.c
+.\objects\bord_2_s.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\objects\bord_2_s.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\bord_2_s.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bord_2_s.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\bord_2_s.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\bord_2_s.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\objects\bord_2_s.o: .\Drivers\sys_uart.h
+.\objects\bord_2_s.o: .\Drivers\stdutils.h
+.\objects\bord_2_s.o: .\Drivers\gpio.h
+.\objects\bord_2_s.o: .\Drivers\delay.h

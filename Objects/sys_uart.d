@@ -1,0 +1,13 @@
+.\objects\sys_uart.o: Drivers\sys_uart.c
+.\objects\sys_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sys_uart.o: Drivers\sys_uart.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\sys_uart.o: C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\objects\sys_uart.o: Drivers\stdutils.h
+.\objects\sys_uart.o: Drivers\gpio.h
+.\objects\sys_uart.o: Drivers\delay.h
